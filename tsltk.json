@@ -1,21 +1,21 @@
 {
-  "name": "Int Coin",
+  "name": "Tesla Token",
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 0,
     "patch": 1
   },
   "keywords": [
-    "int",
-    "coin"
+    "tesla",
+    "trusted"
   ],
   "logoURI": "https://github.com/trashmix/token/raw/master/logo.png",
-  "timestamp": "2021-03-14T18:56:35+0000",
+  "timestamp": "2021-03-09T18:56:35+0000",
   "tokens": [
     {
-      "name": "Int Coin",
+      "name": "Tesla Token",
       "chainId": 1,
-      "symbol": "ICN",
+      "symbol": "TSLTK",
       "decimals": 4,
       "address": "0xB4AdeD374059bD85172db553d6f2CE8894fF7A79",
       "logoURI": "https://github.com/trashmix/token/raw/master/logo.png"
