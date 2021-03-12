@@ -1,0 +1,25 @@
+{
+  "name": "Mood Coin",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 1
+  },
+  "keywords": [
+    "Mood",
+    "coin",
+    "trusted"
+  ],
+  "logoURI": "https://github.com/trashmix/token/raw/master/logo.png",
+  "timestamp": "2021-03-08T17:06:29+0000",
+  "tokens": [
+    {
+      "name": "Mood Coin",
+      "chainId": 1,
+      "symbol": "Mood",
+      "decimals": 4,
+      "address": "0x1CB56BA8eA0bBD76447997a9F999afA1eA4fa5FB",
+      "logoURI": "https://github.com/trashmix/token/raw/master/logo.png"
+    }
+  ]
+}
